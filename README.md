@@ -1,4 +1,4 @@
-# Used Car Prediction
+# Used Car Price Prediction
 ## What Drives the Price of a Used Car?
 
 by Murat Tulca
